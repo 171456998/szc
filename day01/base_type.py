@@ -26,7 +26,7 @@ def str_demo9():
 
 # 声明一个add方法 参数有两个 aint,bint
 def add(aint, bint):
-    # 打印aint参数
+    #  打印aint参数
     print(aint)
     # 打印bint参数
     print(bint)
